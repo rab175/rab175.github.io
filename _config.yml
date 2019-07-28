@@ -1,11 +1,11 @@
 # Site settings
 author: Ryan Beck
-title: 
+title: Ryan Beck Data Science
 header-img: img/home-bg.png
 email: ryanbeck175@gmail.com
 copyright_name: Ryan Beck
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My journey into getting real with numbers
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  rab175
