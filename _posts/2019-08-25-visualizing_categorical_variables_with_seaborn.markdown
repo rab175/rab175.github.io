@@ -13,6 +13,7 @@ This blog is about seaborn
 
 
 
+
 ```
 # To better learn seaborn I created a funciton  to take a list of values and plot a series of graphs and charts
 # function is meant to take a list of independent variables, a dependent variable, and a daraframe that contains both
@@ -67,6 +68,6 @@ def seaborn_plotter(independent_vs, dependent_v, df):
         print("\n")
 ```
 
-![](https://drive.google.com/open?id=1J1CYa_Q3iekkEwHWPL_WBemJpdhqU6Jt)
+![](https://drive.google.com/file/d/1J1CYa_Q3iekkEwHWPL_WBemJpdhqU6Jt/view?usp=sharing)
 
 
