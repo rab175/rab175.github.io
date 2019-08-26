@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Visualizing Categorical Variables with Seaborn "
-date:       2019-08-26 03:23:56 +0000
+date:       2019-08-25 23:23:57 -0400
 permalink:  visualizing_categorical_variables_with_seaborn
 ---
 
