@@ -24,7 +24,27 @@ In this project we are going to work with the Northwind database to identify and
 
 ### The Northwind Database Scehma:
 
-![](https://github.com/rab175/dsc-mod-3-project-online-ds-pt-071519/blob/master/Northwind_ERD_updated.png?raw=true) []!
+![](https://github.com/rab175/dsc-mod-3-project-online-ds-pt-071519/blob/master/Northwind_ERD_updated.png?raw=true) 
+
+We'll need a number of different libraries to query our database, process data, do statistical analysis, and visualize our results. Also, there are number of things we'll do many times, so I've defined functions in another file and imported them to keep our notebook as clean as possible.
+
+```
+
+# import libraries necessary to do analysis
+import pandas as pd
+import sqlite3
+import numpy as np
+from functions import *
+import matplotlib.pyplot as plt
+import seaborn as sns
+import scipy.stats as stats
+from statsmodels.stats.power import TTestIndPower
+import statsmodels.api as sm
+from statsmodels.formula.api import ols
+import math
+sns.set_style('darkgrid')
+%matplotlib inline
+```
 
 
 
