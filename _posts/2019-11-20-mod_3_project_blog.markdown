@@ -223,7 +223,7 @@ We have the power! It looks like our sample size is sufficiently big enough to d
 With this, we can again affirm our conclusion to reject H0 and determine claim that discount amount has a **large statistically significant effect on quantity of product ordered.**
 
 
-To see how I approached question 1b, 2, 3, and 4 see my repo [here!] (https://github.com/rab175/dsc-mod-3-project-online-ds-pt-071519)
+To see how I approached question 1b, 2, 3, and 4 see my repo [here!](https://github.com/rab175/dsc-mod-3-project-online-ds-pt-071519)
 
 Thanks for reading! 
 
