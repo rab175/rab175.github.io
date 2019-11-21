@@ -23,6 +23,10 @@ In this project we are going to work with the Northwind database to identify and
 ## Setting up our environment
 
 ### The Northwind Database Scehma:
-![](https://github.com/rab175/dsc-mod-3-project-online-ds-pt-071519/blob/master/Northwind_ERD_updated.png?raw=true)
+
+![](https://github.com/rab175/dsc-mod-3-project-online-ds-pt-071519/blob/master/Northwind_ERD_updated.png?raw=true) []!
+
+
+
 
 
