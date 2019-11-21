@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Mod 3 Project Blog"
-date:       2019-11-21 01:05:07 +0000
+date:       2019-11-20 20:05:08 -0500
 permalink:  mod_3_project_blog
 ---
 
