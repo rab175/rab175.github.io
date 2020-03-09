@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Mod 5 Project - Bank Marketing Classifier"
-date:       2020-03-09 06:07:02 +0000
+date:       2020-03-09 02:07:03 -0400
 permalink:  mod_5_project_-_bank_marketing_classifier
 ---
 
