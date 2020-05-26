@@ -16,7 +16,8 @@ As brief description, the goal for the project was to develop a model that predi
 
 We worked through dozens of iterations of modeling techniques and feature transformations to finally arrive at a model that that reliably predicted whether or not a customer would succesfully be aquired in a telemarketing campaign. The next, and more important question, was what do we do with this information? 
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/J2Vdlge"  ><a href="//imgur.com/a/J2Vdlge">n calls success</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+![Customer success after n calls](https://i.imgur.com/Sm9aqzv.png)
 
 One thing we could do is seek to conserve our resources by only calling those customers most likely to convert (saving on call center time) and reducing the number of calls we make to customers that are unlikely. As we see above, there appear to be diminishing returns on the number of calls we make to a custome. What if we cut all those calls out of our process becasue we had a high degree of confidence that they were wated time anyway?
 
