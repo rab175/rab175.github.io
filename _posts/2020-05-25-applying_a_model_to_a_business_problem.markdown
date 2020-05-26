@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Applying a model to a business problem"
-date:       2020-05-26 03:32:02 +0000
+date:       2020-05-25 23:32:03 -0400
 permalink:  applying_a_model_to_a_business_problem
 ---
 
@@ -110,4 +110,7 @@ Conclusions:
 * Due to it's better precision Random Forest was able to lower costs more significantly, but it also had a much higher False Negative rate, which given our scenario is ultimately more costly
 * 
 * Logistic Regression appears to be the method of choice for this problem. Although we do not have it as tuned as we would like it to be, it consistently had the highest recall and therefore lowest false negative rate 
+
+
+[Github repo](https://github.com/rab175/dsc-mod-5-project-online-ds-pt-071519/blob/master/Mod5_Project_Bank_Marketing_Classifier.ipynb)
 
