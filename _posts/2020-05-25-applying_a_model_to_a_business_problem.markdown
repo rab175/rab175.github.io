@@ -8,7 +8,7 @@ permalink:  applying_a_model_to_a_business_problem
 
 Data science and machine learning models are awesome. So are cool visualizations. But, they're only as valuable as the insights they provide to help answer the essential business questions that drive them. In this post I'll walk through my attempts to apply the classification models I developed in the module 5 project, and highlight how they may help a business make an important decision, and what a threshhold might be for applying that type of project in the real world. 
 
-**To read the overview for my Mod-5 Bank Marketing Classifier project see here:** 
+**To read the overview for my Mod-5 Bank Marketing Classifier project click [here](https://rab175.github.io/mod_5_project_-_bank_marketing_classifier):**
 
 https://rab175.github.io/mod_5_project_-_bank_marketing_classifier
 
